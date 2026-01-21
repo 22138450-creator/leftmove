@@ -1,0 +1,35 @@
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #006B7D !important;
+}
+
+.hero-section {
+    background-color: #006B7D;
+    color: white;
+    padding: 40px 0;
+}
+
+.property-card {
+    transition: transform 0.3s;
+}
+
+.property-card:hover {
+    transform: translateY(-5px);
+}
+
+.price {
+    background-color: #006B7D;
+    color: white;
+    font-weight: bold;
+}
+
+.btn-leftmove {
+    background-color: #006B7D;
+    color: white;
+}
+
+.btn-leftmove:hover {
+    background-color: #00A8CC;
+    color: white;
+}
